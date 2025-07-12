@@ -1,4 +1,4 @@
-ReWear is a web-based clothing exchange platform built with React. It empowers users to swap unused garments or redeem them via a point-based system — promoting sustainable fashion and reducing textile waste.
+ReWear is a clothing exchange platform built with React. It empowers users to swap unused garments or redeem them via a point-based system — promoting sustainable fashion and reducing textile waste.
 #react #sustainable-fashion #clothing-swap #reuse #textile-waste
 		➡️User Features
 Sign Up / Login
