@@ -10,7 +10,7 @@ Sign Up / Login
 ~Browse Items
 ~List an Item
 
- 	    ➡️Item Listing
+ 	        ➡️Item Listing
 ~Users can upload clothing with images, title, category, size, condition, and tags.
 
 		➡️Item Detail View
@@ -40,6 +40,6 @@ View full description, image gallery, owner info, and choose to
 
 		➡️Lightweight Admin Panel
 ~Easy-to-use backend controls for moderation
-Contribution
-Frontend by Harmi Shah
-Backend ans API by Tejal Parmar and Vishwa Soni
+➡️Contribution
+~Frontend by Harmi Shah
+~Backend ans API by Tejal Parmar and Vishwa Soni
