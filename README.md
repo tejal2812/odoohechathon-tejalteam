@@ -40,3 +40,6 @@ View full description, image gallery, owner info, and choose to
 
 		➡️Lightweight Admin Panel
 ~Easy-to-use backend controls for moderation
+Contribution
+Frontend by Harmi Shah
+Backend ans API by Tejal Parmar and Vishwa Soni
