@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+ HEAD
 rewear
 =======
 # odoohechathon-tejalteam
